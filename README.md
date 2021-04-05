@@ -317,8 +317,6 @@ I/O 部分：
 
 #### 02-UI
 
-
-
 ##### 01-SDK UI
 
 - [Bitmap 使用指南](http://note.youdao.com/noteshare?id=9d67010b797495405a01e5f9634d07fc&sub=FB719F32F1BE44B3AA54ED3D36DC6990)
@@ -327,11 +325,11 @@ I/O 部分：
 
 ##### 02-Custom UI
 
-Basic：
+**Basic**：
 
 1. [自定义View-基础](http://note.youdao.com/noteshare?id=254387076776529b5a9b2f8475051142&sub=6F0E98D7C76345AF93390B1E5BD46B6A)
 
-绘图：
+**绘图**：
 
 1. [绘图01-基础知识](http://note.youdao.com/noteshare?id=7db7d25625961012f5e32b05466819e4&sub=0FB3108A98F5452C8CD90D1141BAE438)
 2. [绘图02-Paint](http://note.youdao.com/noteshare?id=05f91afb77f27cd4aeb1dd10c2ed9d2b&sub=F6F2C44F522E4E849A9D46AA70D2B499)
@@ -340,7 +338,7 @@ Basic：
 5. [绘图05-Matrix](http://note.youdao.com/noteshare?id=c6e087a3a77a9d860306d30a5d971f5c&sub=2EF60FB782D64D4FB8E8D4EE9FD1F269)
 6. ... too many to update.
 
-绘制流程：
+**绘制流程**：
 
 1. [绘制流程01-measure](http://note.youdao.com/noteshare?id=226af044a91e3a528371a634cfbea0b6&sub=D8750EB6FEA946C6BE8D4DD29CBA4D29)
 2. [绘制流程02-onMeasure一般写法](http://note.youdao.com/noteshare?id=f85e9a29e151ee28f9dec996e6bef36f&sub=77961BE3B61E467194C9DA8558B50B1D)
@@ -349,7 +347,7 @@ Basic：
 5. [绘制流程05-View生命周期图](http://note.youdao.com/noteshare?id=9a9e008f2dc46f93611d80017ad1fae6&sub=F8E741762FD640A8972BB5D7F4EFF3B3)
 6. [绘制流程06-子线程如何更新UI](http://note.youdao.com/noteshare?id=54b269a449849d87188b9c00cf7156c4&sub=5E38DDC4EFF84FF5BF07752FAD537DF3)
 
-事件分发：
+**事件分发**：
 
 1. [事件分发01.1-View的事件分发源码分析(2.3)](http://note.youdao.com/noteshare?id=ce2cdfe6b49d574dccfd033446a1ffa5&sub=4CEB8EE6349D43769A74B21F161913B9)
 2. [事件分发01.2-View的事件分发源码分析(5.0)](http://note.youdao.com/noteshare?id=a5bf837faaf05bc95038e31dbad3c089&sub=33FA23DF43224EC3AD70EAB411E9A963)
@@ -511,7 +509,7 @@ nothing to share.
 
 ### 【Git】
 
-- [Git基础](http://note.youdao.com/noteshare?id=41688d2c88f73ef938a96b4f07aebbd5&sub=9F261B734EE542F69812C574FBE0A94F)
+[Git基础](http://note.youdao.com/noteshare?id=41688d2c88f73ef938a96b4f07aebbd5&sub=9F261B734EE542F69812C574FBE0A94F)
 
 ---
 ---
