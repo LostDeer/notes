@@ -1,5 +1,8 @@
 # notes
 
+---
+---
+
 ## 【【Basic parts】】
 
 ### 【Operation System】
@@ -28,6 +31,8 @@
 
 - [ ] todo
 
+---
+
 ### 【Data Structures & Algorithms】
 
 慕课网01《玩转数据结构》：
@@ -35,7 +40,7 @@
 1. [README](http://note.youdao.com/noteshare?id=890f1b79b676bfc5cd3d8fe5db87d0f0&sub=DE9786A7A0E843228B1A07D3B6924763)
 2. [《玩转数据结构》01：数组](http://note.youdao.com/noteshare?id=ecd9dec50a077820eee38ac03bd315fd&sub=3131C9DF062E43928F9E1466BB636C35)
 3. [《玩转数据结构》02：栈](http://note.youdao.com/noteshare?id=125599619d09c24009aea47d5715bdc0&sub=FA2FFEACBA454BC99FC82B83F15286ED)
-4. [《《玩转数据结构》03：队列](http://note.youdao.com/noteshare?id=3157f993d170ada82c98955b5a303806&sub=B1C2977202824D4FB4F9A34B2F456F16)
+4. [《玩转数据结构》03：队列](http://note.youdao.com/noteshare?id=3157f993d170ada82c98955b5a303806&sub=B1C2977202824D4FB4F9A34B2F456F16)
 5. [《玩转数据结构》04：单向链表](http://note.youdao.com/noteshare?id=db087b1b10d19562ada4ce68fd22d933&sub=615D8789A970498F967BDFEB999D9B28)
 6. [《玩转数据结构》05：二分搜索树](http://note.youdao.com/noteshare?id=85a0265591c6b910d990b093a29376c4&sub=0C26C6F357AB4854B2861DECAF8FFEBF)
 7. [《玩转数据结构》06：集合（set）](http://note.youdao.com/noteshare?id=a6e43740d6287c5daccae9c6979ce181&sub=794BD8140368437E97EFC68329E0555D)
@@ -63,6 +68,8 @@
 慕课网05《图论精讲》
 
 - [ ] todo
+
+---
 
 ### 【Network】
 
@@ -97,9 +104,14 @@
 
 1. [Socket 网络编程进阶与实战](http://note.youdao.com/noteshare?id=8489412fc4e17619d1247ba522d8d373&sub=AFF5FA73188948D7BB9C652744D0CB57)
 
+---
+
 ### 【Architecture】
 
 - [README](http://note.youdao.com/noteshare?id=beffe33a55f3798f949198a955155763&sub=00B34205496045B4A0D2CBD5FB464802)
+
+---
+---
 
 ## 【【Language part】】
 
@@ -107,9 +119,13 @@
 
 [README](http://note.youdao.com/noteshare?id=3016d427a087662b221b78e5491c42f3&sub=A044E741F82B402A9546303AC1E620F0)
 
+---
+
 ### 【C Plus Plus】
 
 [README](http://note.youdao.com/noteshare?id=4a4a327dec3df2619161bff3468437fe&sub=DC341477DFA544E78894B6F7E8F7F85B)
+
+---
 
 ### 【Java】
 
@@ -187,9 +203,14 @@ I/O 部分：
 
 #### RxJava
 
+---
+
 ### 【Kotlin】
 
 - [ ] todo
+
+---
+---
 
 ## 【【Platform part】】
 
@@ -197,23 +218,35 @@ I/O 部分：
 
 - [ ] todo
 
+---
+
 ### 【Flutter】
 
 - [ ] todo
+
+---
 
 ### 【Back-end】
 
 - [ ] todo
 
+---
+
 ### 【Front-end】
 
 - [ ] todo
+
+---
+---
 
 ## 【【Tools part】】
 
 ### 【Gradle】
 
 - [ ] todo
+
+---
+---
 
 ## 【【Others】】
 
