@@ -458,6 +458,7 @@ View System
 Others：
 
 - [源码解析：Handler(消息机制)](http://note.youdao.com/noteshare?id=68bb0087cb0356d7123c475e735b396f&sub=8AE76D5423B34002A9BA5748523BF0FD)
+- [源码解析：Activity restart 与 Fragment、Loader 的 Retaining 分析](http://note.youdao.com/noteshare?id=1d4f6ebdb2b8536d057fd2f8557fb96f&sub=CE1BB5F4E4D44A49A47BA8223FA367F6)
 
 #### Android更新与适配
 
