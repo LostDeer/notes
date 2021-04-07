@@ -185,7 +185,7 @@ I/O 部分：
 1. [JavaIO：01-BIO](http://note.youdao.com/noteshare?id=a19ac3dba5de24367116fbef9a96d59a&sub=144C39478C5149FAA98E38302B62C713)
 2. [JavaIO：02-File](http://note.youdao.com/noteshare?id=8ded6925c394d2bf807dee29612d76d6&sub=944C1DB8C119462B8F283418AAD018EC)
 3. [JavaIO：03-NIO](http://note.youdao.com/noteshare?id=149344fe9b9ea7e52f9505aa7d1a6e49&sub=25D1BD6DC97E456D9A3E573448E09588)
-4. [JavaIO：03-NIO](http://note.youdao.com/noteshare?id=9602d041b89ab1ea724ccb3478318a13&sub=A162EF002CB74A0781142E0388A62445)
+4. [JavaIO：04-NIO2](http://note.youdao.com/noteshare?id=9602d041b89ab1ea724ccb3478318a13&sub=A162EF002CB74A0781142E0388A62445)
 5. [Java 零拷贝技术](http://note.youdao.com/noteshare?id=8aa52f1c295e5d43a1125202d4af8e1f&sub=BC766656CFB94FF5BBACD1C4174E7858)
 6. [Java提供了哪些IO方式？ NIO如何实现多路复用？](http://note.youdao.com/noteshare?id=5ef589f1d47f242ce75d9733fe28722c&sub=B7E6368C59DA4BEAA6AD2D15B3489200)
 7. [Java有几种文件拷贝方式？哪一种最高效？](http://note.youdao.com/noteshare?id=b8da3f9df9b11523d97232b7b47f0c00&sub=C439C971AA2C412CADC6D03D9C239972)
